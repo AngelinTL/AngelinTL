@@ -1,4 +1,4 @@
-# WASSUP 👋 Eu sou o Angelin
+# Olá 👋 Eu sou o Angelin
 
 🎯 Desenvolvedor com foco em Engenharia de Software
 
